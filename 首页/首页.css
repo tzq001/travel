@@ -50,5 +50,25 @@
 }
 
 .bottom {
-  height: 100px;
+  height: 200px;
+  background-color: #282828;
+
+}
+
+.bottom ul {
+  color: #fff;
+
+}
+
+.bottom a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.bottom div {
+  border: 1px solid red;
+  width: 400px;
+  float: left;
+
 }
