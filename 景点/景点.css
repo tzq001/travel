@@ -83,6 +83,10 @@
   margin: 10px 25%;
 }
 
+.li-box div:hover {
+  box-shadow: 15px 15px 100px -4px rgba(0, 0, 0, 0.1) inset;
+}
+
 .bottom {
   height: 200px;
   background-color: #282828;
