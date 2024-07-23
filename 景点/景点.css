@@ -152,3 +152,10 @@
 .sbox2 a:hover {
   text-decoration: underline;
 }
+
+.content .footer {
+  width: 1000px;
+  height: 50px;
+  margin: auto 25%;
+  text-align: center;
+}
