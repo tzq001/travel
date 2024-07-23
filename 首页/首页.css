@@ -52,23 +52,53 @@
 .bottom {
   height: 200px;
   background-color: #282828;
-
 }
 
-.bottom ul {
-  color: #fff;
 
+.bottom h1 {
+  font-size: 30px;
+  font-weight: 700px;
+  line-height: 32px;
+  color: #fff;
+  text-align: left;
+  margin-bottom: 10px;
+  letter-spacing: 3px;
+}
+
+.bottom .row1 p {
+  color: #f2f2f2;
+  font-size: 14px;
+  line-height: 24px;
+  /* 字间距3px */
+  letter-spacing: 3px;
 }
 
 .bottom a {
-  color: #fff;
   text-decoration: none;
-  font-size: 12px;
+  color: #fff;
+  font-size: 14px;
+  line-height: 24px;
+  /* 字间距3px */
+  letter-spacing: 3px;
 }
 
-.bottom div {
-  border: 1px solid red;
-  width: 400px;
-  float: left;
+.sbox-h3 {
+  font-size: 20px;
+  color: #d0d0d0;
+  line-height: 1.5;
+}
 
+.bottom .row3 li {
+  list-style: none;
+}
+
+.bottom a:hover {
+  text-decoration: underline;
+}
+
+.b-div {
+  border-right: 1px solid #424242;
+  float: left;
+  margin: 20px 20px 0px 30px;
+  padding-right: 20px;
 }
